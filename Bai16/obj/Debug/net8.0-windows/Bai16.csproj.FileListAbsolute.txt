@@ -1,0 +1,17 @@
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\bin\Debug\net8.0-windows\Bai16.exe
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\bin\Debug\net8.0-windows\Bai16.deps.json
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\bin\Debug\net8.0-windows\Bai16.runtimeconfig.json
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\bin\Debug\net8.0-windows\Bai16.dll
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\bin\Debug\net8.0-windows\Bai16.pdb
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.Form1.resources
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.csproj.GenerateResource.cache
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.AssemblyInfoInputs.cache
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.AssemblyInfo.cs
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.csproj.CoreCompileInputs.cache
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.sourcelink.json
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.dll
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\refint\Bai16.dll
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.pdb
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\Bai16.genruntimeconfig.cache
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai16\obj\Debug\net8.0-windows\ref\Bai16.dll

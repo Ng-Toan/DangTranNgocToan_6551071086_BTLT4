@@ -1,0 +1,15 @@
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\bin\Debug\net8.0-windows\Bai15.exe
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\bin\Debug\net8.0-windows\Bai15.deps.json
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\bin\Debug\net8.0-windows\Bai15.runtimeconfig.json
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\bin\Debug\net8.0-windows\Bai15.dll
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\bin\Debug\net8.0-windows\Bai15.pdb
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.AssemblyInfoInputs.cache
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.AssemblyInfo.cs
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.csproj.CoreCompileInputs.cache
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.sourcelink.json
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.dll
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\refint\Bai15.dll
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.pdb
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\Bai15.genruntimeconfig.cache
+D:\C#\Buoi3\DangTranNgocToan_6551071086_BTLT4\DangTranNgocToan_6551071086_BTLT4\Bai15\obj\Debug\net8.0-windows\ref\Bai15.dll
